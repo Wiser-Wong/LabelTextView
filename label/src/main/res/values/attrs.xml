@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="LabelTextView">
+        <attr name="ltv_labelLayoutId" format="reference"/>
+        <attr name="ltv_labelTextId" format="reference"/>
+    </declare-styleable>
+
+</resources>

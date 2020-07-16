@@ -1,0 +1,3 @@
+rootProject.name='LabelTextView'
+include ':app'
+include ':label'
